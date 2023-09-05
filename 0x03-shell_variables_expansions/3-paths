@@ -1,2 +1,2 @@
 #!/bin/bash
-export $PATH |tr ';' '\n' |wc -1
+export $PATH |tr ':' '\n' | wc -1
